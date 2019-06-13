@@ -8,4 +8,9 @@ public class Firsttest {
         System.out.println("hello,git,project");
         System.out.println("hello,git,project");
     }
+    public static  void test(){
+        int i = 10;
+        i += 2;
+        System.out.println(i);
+    }
 }
