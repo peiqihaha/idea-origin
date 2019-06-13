@@ -14,5 +14,6 @@ public class Firsttest {
         System.out.println(i);
         System.out.println("昵达耶");
         System.out.println("78946");
+        System.out.println("身份卡惊世毒妃");
     }
 }
