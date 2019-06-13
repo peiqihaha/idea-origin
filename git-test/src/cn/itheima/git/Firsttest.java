@@ -12,5 +12,6 @@ public class Firsttest {
         int i = 10;
         i += 2;
         System.out.println(i);
+        System.out.println("昵达耶");
     }
 }
