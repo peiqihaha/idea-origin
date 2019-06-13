@@ -13,5 +13,6 @@ public class Firsttest {
         i += 2;
         System.out.println(i);
         System.out.println("昵达耶");
+        System.out.println("78946");
     }
 }
